@@ -22,7 +22,7 @@ fit <- lm(dist ~ speed, data = cars)
 fit
 ```
 
-# try to change this page
+# try to change the page 
 
 ok, seems like i got it, bingo!
 ```{r echo=FALSE}
