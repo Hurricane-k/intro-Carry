@@ -1,3 +1,3 @@
-# intro-Carry
-this is my first time to build and push the personal website with RStudio and git. <br>
-public/index.html
+# brief
+the first time to build up my personal website by RStudio and blogdown,<br>
+this repository is the test repository for my offical personal website
