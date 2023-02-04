@@ -1,5 +1,5 @@
 ---
-title: 2023-02-03-new-post
+title: cant insert image -new-post
 author: Carry
 date: '2023-02-04'
 slug: new-post
@@ -12,7 +12,7 @@ tags:
 # this is new page I post
 test<br> 
 insert a picture<br>
-![this is a test image](images/LenaRGB.tif)<br>
+![this is a test image](static/post/2023-02-03-new-post/images/LenaRGB.tif)<br>
 
 # Can I add something in this `.Rmd` file?
 seems like I can add other things in the original pages
