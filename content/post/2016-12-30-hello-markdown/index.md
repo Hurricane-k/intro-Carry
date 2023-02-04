@@ -22,3 +22,8 @@ When creating a new post, you have to decide whether the post format is Markdown
 ```r
 blogdown::new_post("Post Title", ext = '.Rmd')
 ```
+# Can I add something new?
+seems like really strange<br>
+![???](static/LenaRGB.tif)
+
+# It is really strange, the broken icon also disappear
