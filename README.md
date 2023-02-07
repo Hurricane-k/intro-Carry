@@ -10,8 +10,10 @@ Now Mine is the latest version of blogdown, but something strange is still there
 <br>
 The detailed question can be seen in [stackoverflow](https://stackoverflow.com/questions/75343079/no-image-shown-after-inserting-image-using-blogdown-addins-insert-image-and-re)<br>
 There is *a broken icon* in place of the inserted image on the rendered page.<br>
-By the way, **every time I refresh the rendered page, it will trigger IDM to download the image I inserted just now**. That's really confusing.
+By the way, **every time I refresh the rendered page, it will trigger IDM to download the image I inserted just now**. That's really confusing.<br>
 
-# image will be copy to `\content\` rather than `static`
 written in 02/04/2023<br>
 [The blogdown tutorial](https://bookdown.org/yihui/blogdown/rstudio-ide.html) and [L. Collado-Torres](https://lcolladotor.github.io/2018/03/07/blogdown-insert-image-addin/#.Y94cjidByUk) shows that the image will be copied to `\static\` under root directory, **but in `blogdown 1.16` the image is not allowed to be save in '\statics\'.** Although the place where the image is saved doesn't matter, I don't know if this is the reason why the inserted image can't be shown well on rendered page.
+
+written in 02/07/2023<br>
+Author Yihui Has edited [my question in Stack Overflow](https://stackoverflow.com/questions/75343079/no-image-shown-after-inserting-image-using-blogdown-addins-insert-image-and-re), but there is no reply or solution of my problem.
